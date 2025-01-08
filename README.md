@@ -14,6 +14,7 @@ This script automates the installation, configuration, and deployment of a websi
    ```bash
    chmod +x setup_httpd.sh
 3. Run the script with sudo:
+   ```bash
    sudo ./setup_httpd.sh
 4. Verify:
    Check service status:
